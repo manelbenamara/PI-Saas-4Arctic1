@@ -4,7 +4,7 @@ This is a collective Project made with love by:
 
 -Chamsedine Mansouri
 
--chaima Benhsouna
+-Chaima Benhsouna
 
 -Hassine chebbi
 
