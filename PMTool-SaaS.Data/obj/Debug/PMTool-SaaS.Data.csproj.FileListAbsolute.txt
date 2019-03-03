@@ -1,0 +1,12 @@
+C:\Users\lenovo\documents\visual studio 2015\Projects\PMTool-SaaS\PMTool-SaaS.Data\bin\Debug\PMTool-SaaS.Data.dll.config
+C:\Users\lenovo\documents\visual studio 2015\Projects\PMTool-SaaS\PMTool-SaaS.Data\bin\Debug\PMTool-SaaS.Data.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\PMTool-SaaS\PMTool-SaaS.Data\bin\Debug\PMTool-SaaS.Data.pdb
+C:\Users\lenovo\documents\visual studio 2015\Projects\PMTool-SaaS\PMTool-SaaS.Data\bin\Debug\EntityFramework.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\PMTool-SaaS\PMTool-SaaS.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\PMTool-SaaS\PMTool-SaaS.Data\bin\Debug\PMTool-SaaS.Domain.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\PMTool-SaaS\PMTool-SaaS.Data\bin\Debug\PMTool-SaaS.Domain.pdb
+C:\Users\lenovo\documents\visual studio 2015\Projects\PMTool-SaaS\PMTool-SaaS.Data\bin\Debug\EntityFramework.xml
+C:\Users\lenovo\documents\visual studio 2015\Projects\PMTool-SaaS\PMTool-SaaS.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lenovo\documents\visual studio 2015\Projects\PMTool-SaaS\PMTool-SaaS.Data\obj\Debug\PMTool-SaaS.Data.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\documents\visual studio 2015\Projects\PMTool-SaaS\PMTool-SaaS.Data\obj\Debug\PMTool-SaaS.Data.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\PMTool-SaaS\PMTool-SaaS.Data\obj\Debug\PMTool-SaaS.Data.pdb

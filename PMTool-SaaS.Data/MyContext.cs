@@ -10,11 +10,15 @@ namespace PMTool_SaaS.Data
     public class MyContext: DbContext
     {
 
-        public MyContext() : base("name=machaine")
+        public MyContext() : base("MyConnection")
         {
 
         }
+
+
         // dbset
+
+
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
             //modelBuilder.Configurations.Add();
