@@ -81,3 +81,5 @@ C:\Users\lenovo\documents\visual studio 2015\Projects\PMTool-SaaS\PMTool-SaaS\bi
 C:\Users\lenovo\documents\visual studio 2015\Projects\PMTool-SaaS\PMTool-SaaS\bin\PMTool-SaaS.Data.pdb
 C:\Users\lenovo\documents\visual studio 2015\Projects\PMTool-SaaS\PMTool-SaaS\obj\Debug\PMTool-SaaS.dll
 C:\Users\lenovo\documents\visual studio 2015\Projects\PMTool-SaaS\PMTool-SaaS\obj\Debug\PMTool-SaaS.pdb
+C:\Users\lenovo\documents\visual studio 2015\Projects\PMTool-SaaS\PMTool-SaaS\obj\Debug\PMTool_SaaS.Migrations.SecondMigration.resources
+C:\Users\lenovo\documents\visual studio 2015\Projects\PMTool-SaaS\PMTool-SaaS\obj\Debug\PMTool-SaaS.Presentation.csproj.GenerateResource.Cache
