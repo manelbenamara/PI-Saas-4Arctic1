@@ -1,6 +1,6 @@
 # PI-Saas-4Arctic1
 
-This is a collective Project made with love by: 
+This is a collective Project made by: 
 
 -Chamsedine Mansouri
 
@@ -12,4 +12,3 @@ This is a collective Project made with love by:
 
 -Manel Ben Amara
 
-This forms part of our PI-DEV Project that aims providing a SaaS solution. It delivers Project Management capabilities destined for a wide variety of companies that seeks managing software developement cycle with a professional tool. 
