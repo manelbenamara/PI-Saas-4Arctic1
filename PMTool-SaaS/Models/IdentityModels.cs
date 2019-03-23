@@ -36,7 +36,7 @@ namespace PMTool_SaaS.Models
             : base("DefaultConnection", throwIfV1Schema: false)
         {
         }
-
+        public DbSet<ToDo> ToDos { get; set; }
         public static ApplicationDbContext Create()
         {
             return new ApplicationDbContext();

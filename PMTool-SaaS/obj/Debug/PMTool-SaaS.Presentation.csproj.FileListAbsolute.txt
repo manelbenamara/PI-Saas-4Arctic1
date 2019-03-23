@@ -168,3 +168,4 @@ C:\Users\thinkpad\Source\Repos\PI-Saas-4Arctic1\PMTool-SaaS\obj\Debug\PMTool_Saa
 C:\Users\thinkpad\Source\Repos\PI-Saas-4Arctic1\PMTool-SaaS\obj\Debug\PMTool-SaaS.Presentation.csproj.GenerateResource.Cache
 C:\Users\thinkpad\Source\Repos\PI-Saas-4Arctic1\PMTool-SaaS\obj\Debug\PMTool-SaaS.dll
 C:\Users\thinkpad\Source\Repos\PI-Saas-4Arctic1\PMTool-SaaS\obj\Debug\PMTool-SaaS.pdb
+C:\Users\thinkpad\source\repos\PI-Saas-4Arctic1\PMTool-SaaS\obj\Debug\PMTool_SaaS.Migrations.ToDo1.resources
