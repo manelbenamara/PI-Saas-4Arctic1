@@ -1,0 +1,29 @@
+C:\Users\lenovo\documents\visual studio 2015\Projects\PMTool-SaaS\Service.Pattern\obj\Debug\Service.Pattern.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\documents\visual studio 2015\Projects\PMTool-SaaS\Service.Pattern\bin\Debug\Service.Pattern.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\PMTool-SaaS\Service.Pattern\bin\Debug\Service.Pattern.pdb
+C:\Users\lenovo\documents\visual studio 2015\Projects\PMTool-SaaS\Service.Pattern\bin\Debug\PMTool-SaaS.Data.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\PMTool-SaaS\Service.Pattern\bin\Debug\EntityFramework.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\PMTool-SaaS\Service.Pattern\bin\Debug\PMTool-SaaS.Data.pdb
+C:\Users\lenovo\documents\visual studio 2015\Projects\PMTool-SaaS\Service.Pattern\bin\Debug\EntityFramework.xml
+C:\Users\lenovo\documents\visual studio 2015\Projects\PMTool-SaaS\Service.Pattern\obj\Debug\Service.Pattern.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\PMTool-SaaS\Service.Pattern\obj\Debug\Service.Pattern.pdb
+C:\Users\Manel\Documents\Visual Studio 2015\PI-Saas-4Arctic1-master\Service.Pattern\bin\Debug\Service.Pattern.dll
+C:\Users\Manel\Documents\Visual Studio 2015\PI-Saas-4Arctic1-master\Service.Pattern\bin\Debug\Service.Pattern.pdb
+C:\Users\Manel\Documents\Visual Studio 2015\PI-Saas-4Arctic1-master\Service.Pattern\bin\Debug\PMTool-SaaS.Data.dll
+C:\Users\Manel\Documents\Visual Studio 2015\PI-Saas-4Arctic1-master\Service.Pattern\bin\Debug\EntityFramework.dll
+C:\Users\Manel\Documents\Visual Studio 2015\PI-Saas-4Arctic1-master\Service.Pattern\bin\Debug\PMTool-SaaS.Data.pdb
+C:\Users\Manel\Documents\Visual Studio 2015\PI-Saas-4Arctic1-master\Service.Pattern\bin\Debug\EntityFramework.xml
+C:\Users\Manel\Documents\Visual Studio 2015\PI-Saas-4Arctic1-master\Service.Pattern\obj\Debug\Service.Pattern.csprojResolveAssemblyReference.cache
+C:\Users\Manel\Documents\Visual Studio 2015\PI-Saas-4Arctic1-master\Service.Pattern\obj\Debug\Service.Pattern.dll
+C:\Users\Manel\Documents\Visual Studio 2015\PI-Saas-4Arctic1-master\Service.Pattern\obj\Debug\Service.Pattern.pdb
+C:\Users\Toshiba\Desktop\Esprit 4 éme\SEM 2\PI SAAS Paas\PI-Saas-4Arctic1-master\PI-Saas-4Arctic1-master\Service.Pattern\bin\Debug\Service.Pattern.dll
+C:\Users\Toshiba\Desktop\Esprit 4 éme\SEM 2\PI SAAS Paas\PI-Saas-4Arctic1-master\PI-Saas-4Arctic1-master\Service.Pattern\bin\Debug\Service.Pattern.pdb
+C:\Users\Toshiba\Desktop\Esprit 4 éme\SEM 2\PI SAAS Paas\PI-Saas-4Arctic1-master\PI-Saas-4Arctic1-master\Service.Pattern\bin\Debug\PMTool-SaaS.Data.dll
+C:\Users\Toshiba\Desktop\Esprit 4 éme\SEM 2\PI SAAS Paas\PI-Saas-4Arctic1-master\PI-Saas-4Arctic1-master\Service.Pattern\bin\Debug\EntityFramework.dll
+C:\Users\Toshiba\Desktop\Esprit 4 éme\SEM 2\PI SAAS Paas\PI-Saas-4Arctic1-master\PI-Saas-4Arctic1-master\Service.Pattern\bin\Debug\PMTool-SaaS.Domain.dll
+C:\Users\Toshiba\Desktop\Esprit 4 éme\SEM 2\PI SAAS Paas\PI-Saas-4Arctic1-master\PI-Saas-4Arctic1-master\Service.Pattern\bin\Debug\PMTool-SaaS.Data.pdb
+C:\Users\Toshiba\Desktop\Esprit 4 éme\SEM 2\PI SAAS Paas\PI-Saas-4Arctic1-master\PI-Saas-4Arctic1-master\Service.Pattern\bin\Debug\EntityFramework.xml
+C:\Users\Toshiba\Desktop\Esprit 4 éme\SEM 2\PI SAAS Paas\PI-Saas-4Arctic1-master\PI-Saas-4Arctic1-master\Service.Pattern\bin\Debug\PMTool-SaaS.Domain.pdb
+C:\Users\Toshiba\Desktop\Esprit 4 éme\SEM 2\PI SAAS Paas\PI-Saas-4Arctic1-master\PI-Saas-4Arctic1-master\Service.Pattern\obj\Debug\Service.Pattern.csprojResolveAssemblyReference.cache
+C:\Users\Toshiba\Desktop\Esprit 4 éme\SEM 2\PI SAAS Paas\PI-Saas-4Arctic1-master\PI-Saas-4Arctic1-master\Service.Pattern\obj\Debug\Service.Pattern.dll
+C:\Users\Toshiba\Desktop\Esprit 4 éme\SEM 2\PI SAAS Paas\PI-Saas-4Arctic1-master\PI-Saas-4Arctic1-master\Service.Pattern\obj\Debug\Service.Pattern.pdb

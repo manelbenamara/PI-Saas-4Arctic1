@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PMTool-SaaS.Presentation", "PMTool-SaaS\PMTool-SaaS.Presentation.csproj", "{E4CCB729-A349-4CC0-B9E9-29593967CF1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PMTool-SaaS.Domain", "PMTool-SaaS.Domain\PMTool-SaaS.Domain.csproj", "{A64268D6-0DAF-4B57-9310-56D906A2E291}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PMTool-SaaS.Data", "PMTool-SaaS.Data\PMTool-SaaS.Data.csproj", "{883CEB91-13DF-482C-A8EC-FDF87253CA67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PMTool-SaaS.Service", "PMTool-SaaS.Service\PMTool-SaaS.Service.csproj", "{18E4454F-0129-458A-87C3-D4036563EEA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service.Pattern", "Service.Pattern\Service.Pattern.csproj", "{22006497-E4C2-46D9-8570-C0F110E8B08D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4CCB729-A349-4CC0-B9E9-29593967CF1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4CCB729-A349-4CC0-B9E9-29593967CF1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4CCB729-A349-4CC0-B9E9-29593967CF1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4CCB729-A349-4CC0-B9E9-29593967CF1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A64268D6-0DAF-4B57-9310-56D906A2E291}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A64268D6-0DAF-4B57-9310-56D906A2E291}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A64268D6-0DAF-4B57-9310-56D906A2E291}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A64268D6-0DAF-4B57-9310-56D906A2E291}.Release|Any CPU.Build.0 = Release|Any CPU
+		{883CEB91-13DF-482C-A8EC-FDF87253CA67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{883CEB91-13DF-482C-A8EC-FDF87253CA67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{883CEB91-13DF-482C-A8EC-FDF87253CA67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{883CEB91-13DF-482C-A8EC-FDF87253CA67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18E4454F-0129-458A-87C3-D4036563EEA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18E4454F-0129-458A-87C3-D4036563EEA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18E4454F-0129-458A-87C3-D4036563EEA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18E4454F-0129-458A-87C3-D4036563EEA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22006497-E4C2-46D9-8570-C0F110E8B08D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22006497-E4C2-46D9-8570-C0F110E8B08D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22006497-E4C2-46D9-8570-C0F110E8B08D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22006497-E4C2-46D9-8570-C0F110E8B08D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
